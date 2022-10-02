@@ -1,1 +1,1 @@
-from IPYNBrenderer.youtube import render_Youtube_video
+from IPYNBrenderer.youtube import render_Youtube_video, get_time_info
