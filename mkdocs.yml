@@ -3,6 +3,7 @@ site_name: RealIPYNBRenderer
 # define TOC or order of website-
 nav:
   - Home: index.md
+  - APIreference: APIreference.md
 
 site_author: Abe Alexander
 site_description: >-
