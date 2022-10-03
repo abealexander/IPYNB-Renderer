@@ -4,9 +4,8 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(
-    level=logging.INFO,
-    format="[%(asctime)s: %(levelname)s]: %(message)s"
-    )
+    level=logging.INFO, format="[%(asctime)s: %(levelname)s]: %(message)s"
+)
 
 while True:
     project_name = input("Enter the Project Name: ")
@@ -28,7 +27,7 @@ list_of_files = [
     "setup.py",
     "pyproject.toml",
     "setup.cfg",
-    "tox.ini"
+    "tox.ini",
 ]
 
 for filepath in list_of_files:
