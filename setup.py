@@ -3,11 +3,11 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 REPO_NAME = "IPYNB-Renderer"
 AUTHOR_USER_NAME = "abealexander"
-SRC_REPO = "IPYNB-Renderer"
+SRC_REPO = "Real-IPYNB-Renderer"
 AUTHOR_EMAIL = "abealexander07@gmail.com"
 
 setuptools.setup(
