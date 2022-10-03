@@ -7,7 +7,7 @@ __version__ = "0.0.2"
 
 REPO_NAME = "IPYNB-Renderer"
 AUTHOR_USER_NAME = "abealexander"
-SRC_REPO = "IPYNB0-Renderer"
+SRC_REPO = "IPYNB-Renderer"
 AUTHOR_EMAIL = "abealexander07@gmail.com"
 
 setuptools.setup(
