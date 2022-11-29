@@ -1,6 +1,6 @@
 # IPYNB Renderer Python Package
 
-A PYPI Package that helps render Youtube Videos in Jupyter Notebook
+A PYPI Package that helps render Websites and Youtube Videos in Jupyter Notebook
 
 Documentation: https://abealexander.github.io/RealIPYNBRenderer/
 
